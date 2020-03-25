@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems (1)/Snail" />
+            <option value="$PROJECT_DIR$/Problems (10)/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Problems (11)/Chocolate" />
+            <option value="$PROJECT_DIR$/Problems (12)/Triangle" />
+            <option value="$PROJECT_DIR$/Problems (13)/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Problems (14)/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems (15)/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems (16)/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Problems (17)/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Problems (18)/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems (19)/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems (2)/Desks" />
+            <option value="$PROJECT_DIR$/Problems (20)/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems (21)/Check the value" />
+            <option value="$PROJECT_DIR$/Problems (22)/Even or odd" />
+            <option value="$PROJECT_DIR$/Problems (23)/The sequence" />
+            <option value="$PROJECT_DIR$/Problems (24)/The (un)-ordered sequence" />
+            <option value="$PROJECT_DIR$/Problems (25)/The (un)-ordered sequence" />
+            <option value="$PROJECT_DIR$/Problems (26)/Bus tour" />
+            <option value="$PROJECT_DIR$/Problems (27)/Queens" />
+            <option value="$PROJECT_DIR$/Problems (3)/Decrement all" />
+            <option value="$PROJECT_DIR$/Problems (4)/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Problems (5)/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Problems (6)/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Problems (7)/Check the value" />
+            <option value="$PROJECT_DIR$/Problems (8)/Check the given numbers are different" />
+            <option value="$PROJECT_DIR$/Problems (9)/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Problems/Cats are robots" />
+            <option value="$PROJECT_DIR$/Problems/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Problems/Hello!" />
+            <option value="$PROJECT_DIR$/Problems/We need to learn Java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
