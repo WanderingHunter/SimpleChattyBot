@@ -6,11 +6,11 @@ public class SimpleBot {
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
     public static void main(String[] args) {
-        greet("Ayudín", "2020"); // change it as you need
+        greet("Aid", "2018"); // change it as you need
         remindName();
         guessAge();
         count();
-        test();
+        // ...
         end();
     }
 
@@ -45,17 +45,7 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        System.out.println("What is the meaning of the return data type void?");
-        System.out.println("1. An empty memory space is returned so that the developers can utilize it.");
-        System.out.println("2. void is not supported in Java");
-        System.out.println("3. void returns no data type.");
-        System.out.println("4. null");
-        int answer = scanner.nextInt();
-        if (answer == 3) {
-            System.out.println("That is correct! Wow!");
-        } else {
-            System.out.println("That is incorrect. Please, try again.");
-        }
+        // write your code here
     }
 
     static void end() {
